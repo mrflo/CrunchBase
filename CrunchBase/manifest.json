@@ -1,0 +1,11 @@
+{
+  "name": "Search on crunchbase",
+  "description": "Search using crunch API",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "icons":{ "16": "cb.png","128":"webclip.png", "48":"webclip.png"},
+  "background": {
+    "scripts": ["crunch.js"]
+  },
+  "manifest_version": 2
+}
