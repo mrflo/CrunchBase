@@ -1,6 +1,6 @@
 {
-  "name": "Search on crunchbase",
-  "description": "Search using crunch API",
+  "name": "Search on CrunchBase",
+  "description": "Search on CrunchBase using a simple context menu",
   "version": "0.1",
   "permissions": ["contextMenus"],
   "icons":{ "16": "cb.png","128":"webclip.png", "48":"webclip.png"},
